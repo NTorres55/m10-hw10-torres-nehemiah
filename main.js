@@ -3,3 +3,7 @@
 const boilingTemp = document.getElementById("boiling-temp");
 
 boilingTemp.textContent += "212";
+// b ii. 32 immediately prints
+const freezingTemp = document.getElementById("freezing-temp");
+
+freezingTemp.textContent += "32";
