@@ -7,3 +7,7 @@ boilingTemp.textContent += "212";
 const freezingTemp = document.getElementById("freezing-temp");
 
 freezingTemp.textContent += "32";
+// b iii. water temp prints
+const waterTemp = document.getElementById("water-temp");
+
+waterTemp.textContent += "80";
