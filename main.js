@@ -11,3 +11,15 @@ freezingTemp.textContent += "32";
 const waterTemp = document.getElementById("water-temp");
 
 waterTemp.textContent += "80";
+// iv.
+const waterTempNumber = document.getElementsByClassName('hide');
+console.log(hide);
+
+function toggleHide() {
+
+};
+
+//for (let 1 = 0; ) {
+
+//}
+//setTimeout(functionName,3000);
